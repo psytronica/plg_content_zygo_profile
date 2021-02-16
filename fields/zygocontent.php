@@ -3,7 +3,7 @@
  * @package     Joomla.Plugin
  * @subpackage  Content.zygo_profile
  *
- * @copyright   Copyright (C) 2015 irina@psytronica.ru
+ * @copyright   Copyright (C) 2015 sherza.web@gmail.com
  * @license     GNU General Public License version 2 or later; see LICENSE.txt
  */
 
